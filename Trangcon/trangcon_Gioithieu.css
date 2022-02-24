@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-bottom: auto;
+
+}
+section{
+    width: 28%;
+    height: 507px;
+    float: left;
+    bottom: 20px;
+    
+}
+section.box_img{
+    bottom: 10px;
+    width: 100%;
+}
+aside{
+    width: 95%;
+    height: 507px;
+    margin-left: 42px;
+    padding: auto;
+    font-size:larger;
+    text-align: left;
+    line-height: 2.0;
+    text-align:justify;
+    top: auto;
+}
+article{
+    width: 100%;
+    height: 100%;
+
+}
+#slider{
+    margin: 0px;
+}
+.footer.footer{
+    margin: 0px;
+}
+
+
